@@ -1,2 +1,5 @@
 rbtree/
 	Red-Block tree from linux kernel
+
+jhash/
+	hash-function from linux kernel
